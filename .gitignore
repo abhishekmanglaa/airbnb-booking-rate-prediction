@@ -37,3 +37,11 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+Data/airnb_test_x.csv
+Data/airbnb_train_x.csv
+Data/airbnb_train_y.csv
+Data/data_dictionary_2020.xlsx
+
+
