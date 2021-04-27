@@ -23,3 +23,13 @@ library(widgetframe)
 library(wordcloud)
 library(xgboost)
 ```
+
+### Data
+
+The dataset can be found as a Kaggle repository.
+
+### Models
+
+1. Logistic Regression
+2. Decision Trees
+3. L1 & L2 regularization
